@@ -95,5 +95,5 @@ source $ZSH/oh-my-zsh.sh
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 #export TERM="putty-256color"
-export TERM="xterm"
+#export TERM="xterm"
 export LC_ALL="en_US.UTF-8"
