@@ -74,3 +74,18 @@ nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 
 set term=xterm-256color
+set tabstop=4
+set sw=2
+set ts=4
+set sts=4
+set showmatch
+set expandtab
+set cindent
+set cinkeys=o,O
+set cinoptions=
+set cinwords=
+set indentexpr=
+set cinoptions=l1
+set smarttab
+set smartindent
+set tw=80
